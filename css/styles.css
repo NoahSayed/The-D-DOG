@@ -1,0 +1,221 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(/animal-5501296_1920\ \(1\).jpg);
+    background-position: -100px;
+    text-decoration: none;
+    color: white ;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: yellow;
+    
+}
+
+label.logo{
+
+    position: relative;
+    right: -10px;
+    font-size: 2rem;
+    margin: 0px;
+    padding: 0 ;
+    font-weight: bold;
+    display: inline;
+  
+    margin-left: 20px;
+    color: white;
+}
+.inputs{
+    color: white;
+}
+.inline {
+    padding-bottom: 10px;
+    display: inline;
+}
+nav{
+    
+
+    padding-bottom: 20px;
+    padding-top: 20px;
+    height: 80%;
+    width: 100%;
+}
+
+nav ul {
+    float: right;
+    margin-right: 30px;
+
+}
+nav ul li{
+    display: inline-block;
+    line-height: 0px;
+    margin: 0 5px;
+    font-size: 17px;
+    
+    text-transform: capitalize;
+}
+nav ul li a{
+    border-radius: 3px;
+    padding: 7px 13px;
+    color: white;
+    text-shadow: 0px 0px 30px white,0px 0px 30px white,0px 0px 30px white,0px 0px 10px #ffffff,0px 0px 10px #553300;
+}
+
+
+a:hover{
+
+    background-color: rgb(0, 217, 255);
+}
+.fitness{
+    color: #fff;
+    display: flex;
+    position: relative;
+    bottom: 400px;
+    align-items: center;
+    margin-left:50px ;
+    font-size: 150px;
+    border: white;
+    font-weight: bolder;
+    text-shadow : horizontal-shadow vertical-shadow blur rebeccapurple;
+}
+.head{
+    display: flex;
+}
+.fitness-img{
+    width: 100px;
+    padding: 0;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    
+}
+.leftbox{
+    width: 10%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+   
+    
+border: 2px solid red;
+   
+}
+.container{
+   text-align: center;
+    width: 50%;
+}
+.join{
+    color: white;
+    white-space: nowrap ;
+    text-align: left;
+    
+}
+
+.help{
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+   position: relative;
+   bottom: 370px;
+    
+}
+
+
+   form{
+       color: white;
+   }
+.leftbox img {
+    width: 110px;
+}
+.b{
+    display: flex;
+border: 2px solid red;
+    background-color: red;
+}
+.c{
+    display: flex ;
+border: 2px solid red;
+    background-color: red;
+}
+
+.titlecenter{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.main{
+    text-align: center;
+    width: 400px;
+    margin: 100px auto 100px auto;
+
+
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+div.register {
+    background-color: white;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 10px ;
+    border: 1px solid rgba (255,255,255,0.3);
+    background-position: 400px;
+    box-shadow: 2px 2px 15px;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    position: relative;
+    top: -500px;
+    right: -400px;
+    
+}
+
+form#register{
+    margin: 40px;
+}
+
+label{
+color: black;
+text-shadow: 0px 0px 30px white,0px 0px 30px white,0px 0px 30px white,0px 0px 10px #ffffff,0px 0px 10px #ffffff;
+
+    margin-top: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 900 ;
+    line-height: 29px;
+ 
+}
+input{
+    text-align: center;
+ width: 320px;
+ padding: 7px;
+ font-size: 16px;
+ font-family: sans-serif;
+ font-weight: 600;
+ border-radius: 3px;
+ background-color: #000;
+ color: #fff;
+ border: 1px solid; 
+ box-shadow: 1px 1px 5px #fff;
+
+ margin-bottom: 3px;
+
+
+}
+.reg{
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-family: 'Forum', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    position: relative;
+    bottom: -40px;
+}
+.lname{
+    
+    margin-bottom: 30px;
+}
